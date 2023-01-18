@@ -1,5 +1,5 @@
 # Task Tracker 
-### This a single page vue app which is used to created and track tasks for the day
+### This a single page vue app which is used to create and track tasks for the day
 
 ## Project setup
 ```

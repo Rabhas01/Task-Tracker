@@ -1,4 +1,5 @@
-# vue-practise-rabhas
+# Task Tracker 
+### This a single page vue app which is used to created and track tasks for the day
 
 ## Project setup
 ```
